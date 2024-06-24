@@ -1,18 +1,17 @@
 return {
-  "folke/tokyonight.nvim",
+  "sekke276/dark_flat.nvim",
   priority = 1000,
   config = function()
     local transparent = false -- set to true if you would like to enable transparency
 
-    require("tokyonight").setup({
-      style = "light",
-      transparent = transparent,
-      styles = {
-        sidebars = transparent and "transparent" or "light",
-        floats = transparent and "transparent" or "light",
-      },
-      on_colors = function() end,
+    require("dark_flat").setup({
+      transparent = false,
+      colors = {},
+      themes = function(colors)
+        return {}
+      end,
+      italics = true,
     })
-    vim.cmd("colorscheme tokyonight")
+    vim.cmd.colorscheme("dark_flat")
   end,
 }
