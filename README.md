@@ -1,7 +1,5 @@
 ## Custom NVim configuration of Josean Martinez NVim setup guide
 
-Main focus: Light theme and custom keymapping
-
 Plugins included:
 
 - lazy.nvim plugin manager
