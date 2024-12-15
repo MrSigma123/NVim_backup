@@ -1,7 +1,12 @@
 ## Custom NVim configuration of Josean Martinez NVim setup guide
 
+Recent update: NVim and LaTeX integration
+MacTex packages handling
+
 Plugins included:
 
+- vimtex with skim integration
+- utilsnip snippet manager
 - lazy.nvim plugin manager
 - vim-tmux-navigator
 - tokyonight-light colorscheme

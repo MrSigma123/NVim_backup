@@ -41,7 +41,6 @@
   "trouble.nvim": { "branch": "main", "commit": "46cf952fc115f4c2b98d4e208ed1e2dce08c9bf6" },
   "ultisnips": { "branch": "master", "commit": "49dc8cb2086db19d385791c8e1635723b0fd95c7" },
   "vim-maximizer": { "branch": "master", "commit": "2e54952fe91e140a2e69f35f22131219fcd9c5f1" },
-  "vim-snippets": { "branch": "master", "commit": "f0a3184d9f90b96b044d5914625a25c554d7f301" },
   "vim-tmux-navigator": { "branch": "master", "commit": "424b5caa154bff34dc258ee53cec5a8e36cf7ea8" },
   "vimtex": { "branch": "master", "commit": "b8bb79b5fb27e9030ade92e75cd9375416f2c666" },
   "which-key.nvim": { "branch": "main", "commit": "4ab3bbe976e63b5390d3fca74a52a092a041cd30" }
